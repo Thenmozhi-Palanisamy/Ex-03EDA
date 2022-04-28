@@ -36,8 +36,8 @@ Save the final data set into the file.
 # CODE
 ```
 Program 
-Developed by:Kaushika.A
-Register no:212221230048
+Developed by:THENMOZHI P
+Register no:21222123116
 '''
 import pandas as pd
 import numpy as np
